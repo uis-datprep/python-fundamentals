@@ -21,3 +21,10 @@ Personally, I recommend using [Visual Studio Code](https://code.visualstudio.com
 ## Getting help
 * If you are working outside the scheduled exercise time, feel free to send an email to the lecturerer of a given day.
 * Most questions can be answered by searching on the internet. If you are not familiar with Python at all, we recommend you to take a look at an online Python course(e.g., [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html), [w3schools](https://www.w3schools.com/python/default.asp)).
+
+
+## Python resources 
+The following is a list of additional ebooks and other resources that you can use to improve your python skills further. These are mostly more complete courses.
+
+* [Many free ebooks about various topics in python](https://dev.to/bowmanjd/free-books-for-learning-python-1dhd)
+* [6 hour video tutorial with many small projects/examples](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
