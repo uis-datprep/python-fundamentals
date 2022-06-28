@@ -1,4 +1,4 @@
-# UiS Preparatory Course 2021
+# UiS Preparatory Course
 This repository contains the exercises for the first day of the DATPREP course. The exercises can be found inside the `exercises` directory.
 
 ## Setting up the coding environment 
