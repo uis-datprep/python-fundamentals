@@ -1,4 +1,4 @@
-# UiS Preparatory Course - Getting started with Python and Git
+# UiS Preparatory Course - Getting started with Python
 This repository contains the exercises for the first day of the DATPREP course. The exercises can be found inside the `exercises` directory.
 
 ## Setting up the coding environment 
