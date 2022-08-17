@@ -4,7 +4,7 @@ def falling_object(time_seconds):
     if time_seconds < 0:
         raise Exception('Illegal input argument.')
     speed = 9.81 * time_seconds
-    return round(speed * time_seconds, 2)
+    return round(0.5 * speed * time_seconds, 2)
 
 def sum_integers(arr):
     sum = 0
